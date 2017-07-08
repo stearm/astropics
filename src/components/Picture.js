@@ -42,7 +42,6 @@ const Description = styled.div`
   box-sizing: border-box;
   @media (max-width: 768px) {
     width: 100%;
-    height: 100%;
   }
 `;
 
